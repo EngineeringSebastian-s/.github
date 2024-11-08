@@ -1,71 +1,71 @@
-# Ingeniería Informática - Politécnico Jaime Isaza Cadavid
+# Computer Engineering - Politécnico Jaime Isaza Cadavid
 
-**Ingeniero Informático**  
-**Modalidad:** Presencial  
-**Duración:** 10 semestres  
-**Acreditación de Alta Calidad:** Resolución 21001 del 03 de noviembre de 2023, vigencia 4 años.
+**Computer Engineer**  
+**Mode:** In-person  
+**Duration:** 10 semesters  
+**High-Quality Accreditation:** Resolution 21001, November 3, 2023, valid for 4 years.
 
-## Presentación
+## Introduction
 
-Soy estudiante de **Ingeniería Informática** en el **Politécnico Jaime Isaza Cadavid**, una carrera que me ha permitido desarrollar una sólida base en informática, abriendo un abanico de posibilidades para enfrentar los retos tecnológicos de la sociedad. A lo largo de mis estudios, he adquirido habilidades que van desde la programación hasta la ingeniería de software, pasando por áreas esenciales como arquitectura de computadores, redes de datos y sistemas de información.
+I am a student of **Computer Engineering** at **Politécnico Jaime Isaza Cadavid**, a degree that has allowed me to build a strong foundation in computer science, opening up a range of possibilities to tackle the technological challenges of society. Throughout my studies, I have gained skills ranging from programming to software engineering, covering essential areas such as computer architecture, data networks, and information systems.
 
-Este programa tiene un enfoque integral que no solo me permite entender los aspectos técnicos de la informática, sino también me impulsa a desarrollar una visión crítica e innovadora. La carrera fomenta un espíritu investigativo y multidisciplinario que me ayuda a generar soluciones efectivas y creativas para diversos problemas en diferentes sectores de la industria.
+This program provides an integral approach that not only helps me understand the technical aspects of computing but also encourages me to develop a critical and innovative mindset. The degree promotes an investigative and multidisciplinary spirit that helps me create effective and creative solutions for various problems across different industry sectors.
 
-En mi formación, he abordado varias áreas clave como **ciencias de la computación**, **ingeniería de software**, **sistemas operativos**, **redes de comunicación** y **bases de datos**. Estas asignaturas no solo me brindan un conocimiento profundo de las herramientas y tecnologías más avanzadas, sino que también me preparan para liderar proyectos informáticos de gran impacto. Algunos de los cursos más relevantes que he cursado hasta ahora incluyen:
+During my education, I have delved into key areas such as **computer science**, **software engineering**, **operating systems**, **communication networks**, and **databases**. These subjects have not only provided me with in-depth knowledge of advanced tools and technologies but also prepared me to lead impactful IT projects. Some of the most relevant courses I have taken so far include:
 
-- **Algoritmos y Programación**
-- **Bases de Datos**
-- **Arquitectura de Hardware y Software**
-- **Diseño de Software**
-- **Inteligencia Artificial**
-- **Sistemas Operativos**
-- **Redes de Comunicación**
+- **Algorithms and Programming**
+- **Databases**
+- **Hardware and Software Architecture**
+- **Software Design**
+- **Artificial Intelligence**
+- **Operating Systems**
+- **Communication Networks**
 
-Cada uno de estos cursos ha sido fundamental para mi crecimiento profesional, proporcionándome los conocimientos y habilidades necesarias para trabajar en diversos proyectos tecnológicos.
+Each of these courses has been fundamental in my professional growth, equipping me with the knowledge and skills needed to work on various technological projects.
 
-## Lenguajes de Programación y Herramientas
+## Programming Languages and Tools
 
-A lo largo de la carrera, se manejan varios lenguajes de programación y herramientas que incluyen:
+Throughout the program, I have worked with various programming languages and tools, including:
 
-### Lenguajes de Programación:
-- **Java**: Utilizado en varias asignaturas como *Algoritmos y Programación* y *Bases de Datos*.
-- **C++**: En cursos introductorios y de programación avanzada.
-- **Python**: En áreas de *Inteligencia Artificial* y *Análisis de Software*.
-- **JavaScript**: Para aplicaciones web y proyectos prácticos.
-- **SQL**: Para el manejo de bases de datos.
-- **HTML/CSS**: En el desarrollo de aplicaciones web y diseño de interfaces.
+### Programming Languages:
+- **Java**: Used in courses like *Algorithms and Programming* and *Databases*.
+- **C++**: In introductory and advanced programming courses.
+- **Python**: In areas like *Artificial Intelligence* and *Software Analysis*.
+- **JavaScript**: For web applications and practical projects.
+- **SQL**: For managing databases.
+- **HTML/CSS**: In web application development and interface design.
 
-### Paradigmas de Programación:
-- **Programación Imperativa**: A través de lenguajes como **C++** y **Java**.
-- **Programación Orientada a Objetos**: Implementada en **Java**, **Python** y **C++**.
-- **Programación Funcional**: Explorada principalmente en **Python** y **JavaScript**.
-- **Programación Lógica**: Introducción al uso de herramientas para resolver problemas mediante lógica formal.
+### Programming Paradigms:
+- **Imperative Programming**: Using languages like **C++** and **Java**.
+- **Object-Oriented Programming**: Implemented in **Java**, **Python**, and **C++**.
+- **Functional Programming**: Primarily explored in **Python** and **JavaScript**.
+- **Logical Programming**: Introduction to using tools for solving problems through formal logic.
 
-### Herramientas y Tecnologías:
-- **Sistemas Operativos**: Uso de **Linux**, **Windows** y conocimientos en administración de sistemas.
-- **Bases de Datos**: Experiencia en sistemas como **MySQL**, **PostgreSQL** y **MongoDB**.
-- **Frameworks**: Como **Spring Boot** para el desarrollo de aplicaciones web, y **Flask** para proyectos en Python.
-- **Control de Versiones**: Uso de **Git** y **GitHub** para la gestión de código fuente y colaboración en proyectos.
-- **Entornos de Desarrollo Integrados (IDEs)**: **Eclipse**, **IntelliJ IDEA**, **VSCode**.
-
----
-
-## Propósito del Repositorio
-
-Este repositorio tiene como propósito centralizar el conocimiento y los proyectos desarrollados a lo largo de la carrera de **Ingeniería Informática** en el **Politécnico Jaime Isaza Cadavid**. Sirve como un espacio de documentación, práctica y colaboración, donde se encuentran los proyectos de diversas asignaturas que he cursado, con especial énfasis en:
-
-- **Desarrollo de Software**: Proyectos relacionados con la creación y gestión de aplicaciones.
-- **Bases de Datos**: Modelado, administración y consultas en bases de datos.
-- **Sistemas Operativos**: Prácticas y configuraciones de sistemas.
-- **Redes de Comunicación**: Diseño y análisis de redes.
-- **Inteligencia Artificial**: Implementación de algoritmos y técnicas de IA.
-
-Cada proyecto está acompañado de documentación detallada, explicando la teoría detrás de cada implementación, las herramientas utilizadas y los resultados obtenidos.
+### Tools and Technologies:
+- **Operating Systems**: Using **Linux**, **Windows**, and system administration knowledge.
+- **Databases**: Experience with systems like **MySQL**, **PostgreSQL**, and **MongoDB**.
+- **Frameworks**: Such as **Spring Boot** for web application development, and **Flask** for Python projects.
+- **Version Control**: Using **Git** and **GitHub** for source code management and collaboration on projects.
+- **Integrated Development Environments (IDEs)**: **Eclipse**, **IntelliJ IDEA**, **VSCode**.
 
 ---
 
-## Contacto
+## Repository Purpose
 
-- **Nombre:** Sebastián López Osorno  
-- **Correo:** Sebastianlopezosorno2005@gmail.com
+The purpose of this repository is to centralize the knowledge and projects developed throughout the **Computer Engineering** degree at **Politécnico Jaime Isaza Cadavid**. It serves as a space for documentation, practice, and collaboration, featuring projects from various courses I have taken, with a particular focus on:
+
+- **Software Development**: Projects related to the creation and management of applications.
+- **Databases**: Modeling, administration, and querying databases.
+- **Operating Systems**: Practices and system configurations.
+- **Communication Networks**: Network design and analysis.
+- **Artificial Intelligence**: Implementation of algorithms and AI techniques.
+
+Each project is accompanied by detailed documentation, explaining the theory behind each implementation, the tools used, and the results obtained.
+
+---
+
+## Contact
+
+- **Name:** Sebastián López Osorno  
+- **Email:** Sebastianlopezosorno2005@gmail.com  
 - **GitHub:** [@EngineeringSebastian-s](https://github.com/SebastianLopezO)
